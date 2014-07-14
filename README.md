@@ -1,6 +1,6 @@
-KarabinerSettings
+# KarabinerSettings
 =================
-# export
+## export
 `$ /Applications/Karabiner.app/Contents/Library/bin/karabiner export > ~/Desktop/karabiner-import.sh`
-# import
+## import
 `$ sh ~/Desktop/karabiner-import.sh`
